@@ -22,8 +22,4 @@ This project allows you to manage employee data with full **CRUD functionality**
 
 ---
 
-## 🖼️ Screenshots
-![Dashboard Screenshot](Employee Dashboard/Images/dashboard.jpg)  
-![Add Employee Screenshot](Employee Dashboard/Images/Add Employee.jpg)
 
----
